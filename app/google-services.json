@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955996132353",
+    "project_id": "fir-activity-fa154",
+    "storage_bucket": "fir-activity-fa154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955996132353:android:e7d3749411fba50f29dc00",
+        "android_client_info": {
+          "package_name": "com.kuliah.firebaseactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955996132353-3lbk62l09pib4e8iorbusgte2ef5i0du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAODOalW95M1Ibgvc53OE9D9SjKVHAnsJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955996132353-3lbk62l09pib4e8iorbusgte2ef5i0du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
